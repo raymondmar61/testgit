@@ -5,5 +5,7 @@ if dayvariable == "Tue":
     print("Today is Tue")
 elif dayvariable == "Fri":
     print("See you on Fri")
+elif dayvariable == "Sun":
+    print("Sunday is funday")
 else:
-    print("Have a good day")
+    print("Have a great day")
