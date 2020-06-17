@@ -1,1 +1,3 @@
 this is my first text file.  this is my first text file.this is my first text file.this is my first text file.this is my first text file.this is my first text file.
+
+Make update on clone repository on desktop C:\Users\raym6\Desktop\temp delete repository example 2\testgit.
