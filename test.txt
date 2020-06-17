@@ -19,3 +19,5 @@ Haku Line 18.
 
 Chichiro.
 I want line 21.
+
+Give me a count.
