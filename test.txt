@@ -1,7 +1,7 @@
 this is my first text file.  this is my first text file.this is my first text file.this is my first text file.this is my first text file.this is my first text file.  raymond1
 I'm raymond2 part 2.
 Alphonese Elric
-Sailor Moon line 4.
+Sailor Moon line 4.  The Shawshank.
 LINE5
 Make update on clone repository on desktop C:\Users\raym6\Desktop\temp delete repository example 2\testgit.  Line six.
 
