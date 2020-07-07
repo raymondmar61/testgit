@@ -1,0 +1,2 @@
+Hello master branch.  Original feature.
+Sentence two.  Original feature.
