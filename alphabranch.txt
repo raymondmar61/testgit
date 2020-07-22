@@ -1,3 +1,4 @@
+0123456789
 Alpha team is go number one.
 Alpha team is go number two with cookies.
 
@@ -8,3 +9,5 @@ Charlie team charles.
 Add the sentence on alphabranchongithub branch from my desktop.
 
 On alphabranchongithub do I need to type git push origin alphabranchongithub to update text file?
+0123456789
+1000
