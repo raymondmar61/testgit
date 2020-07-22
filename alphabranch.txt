@@ -5,12 +5,9 @@ Alpha team is go number two with cookies.
 Bravo team is go number two.
 
 Charlie team charles.
-<<<<<<< HEAD
 
 Add the sentence on alphabranchongithub branch from my desktop.
 
 On alphabranchongithub do I need to type git push origin alphabranchongithub to update text file?
 0123456789
 1000
-=======
->>>>>>> parent of 792a8f0... alphabranchongithub added myself
