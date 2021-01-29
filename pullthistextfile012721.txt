@@ -11,3 +11,5 @@ Push text file to GitHub.  Jan 21, 2021 at 8:29PM.  Delayed Jan 28, 2021 at 6:09
 Test git push origin master.  Continue sentences Jan 28, 2021.
 
 Test git push -u origin master.  Remember git add and git commit -m "*message*".
+
+I'm going to mess around.  raym6@DESKTOP-I8LJ46K MINGW64 ~/Documents/GitHub/testgit ((6c13bf4...)).  I'm doing the git checkout origin/master.
