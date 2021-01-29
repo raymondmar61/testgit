@@ -9,3 +9,5 @@ Pull text file to desktop GitHub.  Jan 21, 2021 at 8:13PM
 Push text file to GitHub.  Jan 21, 2021 at 8:29PM.  Delayed Jan 28, 2021 at 6:09pm.
 
 Test git push origin master.  Continue sentences Jan 28, 2021.
+
+Test git push -u origin master.  Remember git add and git commit -m "*message*".
