@@ -13,3 +13,9 @@ Test git push origin master.  Continue sentences Jan 28, 2021.
 Test git push -u origin master.  Remember git add and git commit -m "*message*".
 
 Sentence written on shawshank branch.  Upload to my GitHub using the command git push -u origin *branchname*.  git add and git commit -m "*message*" before the git push -u origin *branchname*.
+
+I'm going to mess around.  raym6@DESKTOP-I8LJ46K MINGW64 ~/Documents/GitHub/testgit ((6c13bf4...)).  I'm doing the git checkout origin/master.  Update moved down from line 15 to line 17 on shawshank branch because of the following below:
+$ git merge origin/master
+CONFLICT (add/add): Merge conflict in pullthistextfile012721.txt
+Auto-merging pullthistextfile012721.txt
+Automatic merge failed; fix conflicts and then commit the result.
