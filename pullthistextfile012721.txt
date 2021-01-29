@@ -19,3 +19,5 @@ $ git merge origin/master
 CONFLICT (add/add): Merge conflict in pullthistextfile012721.txt
 Auto-merging pullthistextfile012721.txt
 Automatic merge failed; fix conflicts and then commit the result.
+
+git switch -c newbranchpreviousstatename
