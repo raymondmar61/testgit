@@ -1,0 +1,2 @@
+# receivetestgitrrepository
+Practice duplicate repository
