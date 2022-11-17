@@ -21,3 +21,5 @@ Auto-merging pullthistextfile012721.txt
 Automatic merge failed; fix conflicts and then commit the result.
 
 git switch -c newbranchpreviousstatename
+
+Fake commit.  Can I remove the commit?  Yes.
